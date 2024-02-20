@@ -16,13 +16,13 @@ En este repositorio encontrarás todos los recursos necesarios para seguir y com
 
 ## ¿Cómo utilizar este repositorio?
 
-1. **Explora el contenido**: Revisa cada sección del repositorio para familiarizarte con los recursos disponibles.
+1. **Explorá el contenido**: Revisa cada sección del repositorio para familiarizarte con los recursos disponibles.
 
-2. **Descarga los materiales**: Descarga los materiales necesarios para cada clase y trabajo práctico.
+2. **Descargá los materiales**: Descarga los materiales necesarios para cada clase y trabajo práctico.
 
-3. **Participa activamente**: Aprovecha al máximo este taller participando en las clases, completando los trabajos prácticos y explorando los conceptos por tu cuenta.
+3. **Participá activamente**: Aprovecha al máximo este taller participando en las clases, completando los trabajos prácticos y explorando los conceptos por tu cuenta.
 
-4. **Comunícate**: Si tienes alguna pregunta o necesitas ayuda, no dudes en utilizar el campus para comunicarte con nosotrps.
+4. **Comunicate**: Si tienes alguna pregunta o necesitas ayuda, no dudes en utilizar el campus para comunicarte con nosotrps.
 
 ## Contribuciones
 
