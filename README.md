@@ -6,7 +6,7 @@ En este repositorio encontrarás todos los recursos necesarios para seguir y com
 
 ## Contenido
 
-1. **Cronograma**: El cronograma detallado del taller se encuentra disponible en el archivo `cronograma-clases.ods`. Aquí podrás consultar los temas a tratar en cada clase y cualquier otra información relevante.
+1. **Cronograma**: El cronograma detallado del taller se encuentra disponible en el archivo `cronograma-clases.pdf`. Aquí podrás consultar los temas a tratar en cada clase y cualquier otra información relevante.
 
 2. **Guías de Trabajos Prácticos**: Las guías de los trabajos prácticos está disponible en el archivo `guia.pdf`. 
 
