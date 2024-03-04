@@ -1,6 +1,6 @@
 # Taller de Procesamiento de Señales
 
-¡Bienvenidos al repositorio del Taller de Procesamiento de Señales!
+¡Bienvenidos al repositorio del Taller de Procesamiento de Señales (ex Teoría de Detección y Estimación)!
 
 En este repositorio encontrarás todos los recursos necesarios para seguir y completar exitosamente el Taller de Procesamiento de Señales. Esta materia se enfoca en la ingeniería de datos, cubriendo una variedad de temas separados en 4 unidades.
 
