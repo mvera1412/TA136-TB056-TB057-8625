@@ -22,7 +22,7 @@ En este repositorio encontrarás todos los recursos necesarios para seguir y com
 
 3. **Participá activamente**: Aprovechá al máximo este taller participando en las clases, completando los trabajos prácticos y explorando los conceptos por tu cuenta.
 
-4. **Comunicate**: Si tenés alguna pregunta o necesitas ayuda, no dudes en utilizar el campus para comunicarte con nosotrps.
+4. **Comunicate**: Si tenés alguna pregunta o necesitas ayuda, no dudes en utilizar el campus para comunicarte con nosotros.
 
 ## Contribuciones
 
