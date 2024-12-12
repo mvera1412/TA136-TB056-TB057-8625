@@ -31,5 +31,3 @@ En este repositorio encontrarás todos los recursos necesarios para seguir y com
 ¡Esperamos que disfruten la cursada!
 
 ¡Buena suerte!
-
-*El equipo de Taller de Procesamiento de Señales*
