@@ -1,12 +1,15 @@
-# Taller de Procesamiento de Señales
+# Taller de Procesamiento de Señales (TA136)
+# Introducción a la Inteligencia Artificial (TB056)
+# Análisis de Datos (TB057)
+# Teoría de Detección y Estimación (8625)
 
-¡Bienvenidos al repositorio del Taller de Procesamiento de Señales (ex Teoría de Detección y Estimación)!
+¡Bienvenidos al repositorio del Taller de Procesamiento de Señales, Introducción a la Inteligencia Artificial, Análisis de Datos y Teoría de Detección y Estimación!
 
-En este repositorio encontrarás todos los recursos necesarios para seguir y completar exitosamente el Taller de Procesamiento de Señales. Esta materia se enfoca en la ingeniería de datos, cubriendo una variedad de temas separados en 4 unidades.
+En este repositorio encontrarás todos los recursos necesarios para seguir y completar las materias diferentes materias. Dichas materias se enfocan en la ingeniería de datos, cubriendo una variedad de temas.
 
 ## Contenido
 
-1. **Cronograma**: El cronograma detallado del taller se encuentra disponible en el archivo `cronograma-clases.pdf`. Aquí podrás consultar los temas a tratar en cada clase y cualquier otra información relevante.
+1. **Cronograma**: El cronograma detallado de las materias se encuentra disponible en el archivo `cronograma-clases.pdf`. Aquí podrás consultar los temas a tratar en cada clase y cualquier otra información relevante.
 
 2. **Guías de Trabajos Prácticos**: Las guías de los trabajos prácticos está disponible en el archivo `guia.pdf`. 
 
@@ -28,7 +31,7 @@ En este repositorio encontrarás todos los recursos necesarios para seguir y com
 
 ¡Las contribuciones son bienvenidas! Si tienen sugerencias de mejoras para el contenido de este repositorio o encuentran algún error, por favor avisen.
 
-¡Esperamos que disfruten el taller!
+¡Esperamos que disfruten la cursada!
 
 ¡Buena suerte!
 
