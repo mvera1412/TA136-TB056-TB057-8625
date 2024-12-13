@@ -6,9 +6,9 @@ En este repositorio encontrarás todos los recursos necesarios para seguir y com
 
 ## Contenido
 
-1. **Cronograma**: El cronograma detallado de las materias se encuentra disponible en el archivo `cronograma-clases.pdf`. Aquí podrás consultar los temas a tratar en cada clase y cualquier otra información relevante.
+1. **Cronograma**: Los cronogramas detallados de las materias se encuentran disponibles en los archivos `cronograma-tps.pdf` (Taller de Procesamiento de Señales/Teoría de Detección y Estimación) y `cronograma-iia.pdf` (Introducción a la Inteligencia Artificial). Aquí podrás consultar los temas a tratar en cada clase y cualquier otra información relevante.
 
-2. **Guías de Trabajos Prácticos**: Las guías de los trabajos prácticos está disponible en el archivo `guia.pdf`. 
+2. **Guías de Trabajos Prácticos**: Las guías de los trabajos prácticos están disponibles en los archivos `guia-tps.pdf` y `guia-iia.pdf` respectivamente. 
 
 3. **Presentaciones Teóricas**: Las presentaciones utilizadas durante las clases teóricas estarán disponibles en la carpeta `presentaciones/`. Estas presentaciones son una referencia útil para revisar los conceptos discutidos en clase.
 
